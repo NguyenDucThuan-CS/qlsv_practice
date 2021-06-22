@@ -6,6 +6,13 @@ var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 getLocalStorage();
 
+function addUser(){
+  console.log("Day la addUser thanh cong cua thuan2");
+}
+
+
+
+
 function layDuLieuDauVao(isAdd)
 {
   var _maSV = getEle("txtMaSV").value;
