@@ -7,9 +7,8 @@ var validation = new Validation();
 getLocalStorage();
 
 function addUser(){
-  console.log("Day la addUser thanh cong cua thuan2");
+  console.log("Day la addUser thanh cong cua thuan");
 }
-
 
 
 
